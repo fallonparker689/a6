@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tabfootcover.com/sitemap.xml
